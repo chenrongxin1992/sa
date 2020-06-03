@@ -22,6 +22,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ###### 常识
 
-![Branching](../思维导图/行测/常识判断/法律/反不正当竞争法.png)
+![Branching](../swdt/xc/cs/fl/fbdjzf.png)
 
 
