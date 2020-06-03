@@ -22,6 +22,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ###### 常识
 
-![Branching](../swdt/xc/cs/fl/fbdjzf.png)
+![Branching](./swdt/xc/cs/fl/fbdjzf.png)
 
 
